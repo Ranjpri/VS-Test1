@@ -11,6 +11,7 @@ namespace Console1
         static void Main(string[] args)
         {
             //This is a comment
+            //Second Comment
         }
     }
 }
